@@ -1,0 +1,14 @@
+* @irfanghat
+
+/src/ @irfanghat
+/tests/ @irfanghat
+
+CMakeLists.txt @irfanghat
+
+/scripts/ @irfanghat
+/hooks/ @irfanghat
+
+/docs/ @irfanghat
+*.md @irfanghat
+
+.github/ @irfanghat
